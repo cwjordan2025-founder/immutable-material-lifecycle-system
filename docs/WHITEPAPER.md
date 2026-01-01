@@ -1,6 +1,15 @@
 # Immutable Material Lifecycle System
 ## Whitepaper
 
+⚠️ LEGAL DISCLAIMER
+
+GLOP is experimental software, not an investment, security, or financial product.
+No expectation of profits, yields, or value appreciation.
+Users bear all risks.
+Not legal or financial advice.
+Consult professionals.
+Void where prohibited.
+
 ## Abstract
 This whitepaper describes the Immutable Material Lifecycle System (IMLS), a
 conceptual and technical framework for representing fixed, irreversible
