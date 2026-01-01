@@ -256,3 +256,21 @@ Nothing within IMLS constitutes legal, financial, investment, tax, or profession
 Assumption of Risk
 By interacting with IMLS or any implementation thereof, users explicitly assume all risks, known and unknown, and agree that no party involved in the system’s design or publication is liable for outcomes.
 ## Prior Art & Timestamping
+This document and the concepts described herein are published for the purpose of establishing public prior art.
+The Immutable Material Lifecycle System (IMLS), including but not limited to its:
+one-way lifecycle model,
+irreversible state transitions,
+terminal residue representation (GLOP DUST NFT),
+invariants, constraints, and exclusions,
+are disclosed publicly as of December 31, 2025.
+Timestamping Method
+To provide an independent and verifiable timestamp, this document may be:
+Published in a public source control repository
+Pinned to the InterPlanetary File System (IPFS)
+Referenced by cryptographic content hash (CID)
+The IPFS content identifier (CID), once generated, serves as immutable proof of existence at or after the stated date. Any future revisions will result in a new CID and will not alter the historical record of this version.
+Versioning
+This document represents Version 1.0 of the IMLS specification.
+Subsequent versions, if any, will be clearly versioned and timestamped and will not retroactively modify this disclosure.
+Reservation of Rights
+Publication of this document does not grant permission, license, or rights beyond those explicitly stated. The authors reserve all rights consistent with applicable law.
