@@ -161,6 +161,16 @@ Interpretive Boundary
 IMLS records irreversible actions and preserves their outcomes as immutable history.
 Any meaning, symbolism, cultural relevance, or external value attributed to lifecycle artifacts is external to the system and not produced, guaranteed, or endorsed by IMLS.
 ## What This System IS
+The Immutable Material Lifecycle System (IMLS) is:
+A formal framework for modeling irreversible digital material transformations
+A finite state machine with strict one-way progression
+A system for recording permanent, user-initiated actions
+An experiment in digital finality, entropy, and non-reversibility
+An implementation-neutral specification compatible with multiple execution environments
+A mechanism for producing historical residue in the form of terminal, non-functional artifacts
+A reference model for research into irreversible state systems
+IMLS is intentionally minimal. It defines what may happen and what may never happen, without prescribing incentives, economics, governance, or outcomes.
+The system’s role ends at enforcing lifecycle integrity. Any interpretation, symbolism, or external relevance associated with lifecycle artifacts arises outside the system and is not guaranteed or managed by it.
 ## What This System IS NOT
 ## Technical Architecture (Abstract)
 ## Deployment Timeliness
