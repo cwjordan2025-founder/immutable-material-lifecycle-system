@@ -224,5 +224,14 @@ Add incentives or economic behavior
 Modify terminal state behavior
 Any upgrade that violates these constraints constitutes a new and incompatible system.
 ## Deployment Timeliness
+The Immutable Material Lifecycle System (IMLS) is released as a conceptual and technical specification, not as a promise of deployment, availability, or ongoing development.
+No timelines, milestones, or delivery schedules are guaranteed. Any implementation of IMLS may occur:
+Incrementally
+Experimentally
+Privately or publicly
+Or not at all
+The absence of a deployment timeline is intentional. It prevents the formation of expectations related to future functionality, availability, or outcomes.
+Any reference implementation, test deployment, or demonstration—if produced—exists solely to validate system behavior and does not constitute a commitment to continued development, support, or maintenance.
+Changes, pauses, or termination of work may occur at any time without notice.
 ## Risk Disclosures
 ## Prior Art & Timestamping
