@@ -56,9 +56,18 @@ This system defines irreversible state transitions without any mechanism for pro
 
 ## Canonical IPFS Reference
 
-This repository’s canonical documentation bundle is published on IPFS:
+This repository's canonical documentation bundle is published on IPFS.
 
-ipfs://bafybeia26rgzqxistbxebp5lgwtxj2b6fg6pvnbqcqbiv6nkyrn5mcl4de
+**Authoritative Canonical Bundle**
+- CID: ipfs://bafybeibc7aeaigwnhqjaxlbedy4es3kb2aupsvxzuzbta5kbawt2vxp24
+- Version: v1.0.1
+- Timestamp: 2025-12-31
+- Contents:
+  - README.md
+  - Whitepaper
+  - Canonical Concept Packet (PDF)
 
-Version: v1.0  
-Timestamp: 2025-12-31
+**Historical Prior Art (Superseded)**
+- CID: ipfs://bafybeia26rgzqxisitbxebp5lgwtxj2b6fgpvnbqcpibv6nkyrn5mc14de
+- Version: v1.0
+- Timestamp: 2025-12-31
