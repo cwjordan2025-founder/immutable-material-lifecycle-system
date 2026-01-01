@@ -172,6 +172,19 @@ A reference model for research into irreversible state systems
 IMLS is intentionally minimal. It defines what may happen and what may never happen, without prescribing incentives, economics, governance, or outcomes.
 The system’s role ends at enforcing lifecycle integrity. Any interpretation, symbolism, or external relevance associated with lifecycle artifacts arises outside the system and is not guaranteed or managed by it.
 ## What This System IS NOT
+The Immutable Material Lifecycle System (IMLS) is not:
+An investment vehicle, financial instrument, or security
+A promise of profit, yield, appreciation, or economic return
+A staking protocol, yield mechanism, or rewards system
+A governance token, voting system, or DAO
+A marketplace, exchange, or liquidity mechanism
+A game designed to optimize strategy, rewards, or outcomes
+A protocol that emits value, dividends, or future benefits
+A system that guarantees scarcity-based appreciation
+A mechanism for speculation or financial optimization
+IMLS does not confer ownership rights, equity, profit participation, or claims on future system behavior. Participation in the system does not create contractual obligations, fiduciary duties, or expectations of return.
+Any secondary market activity, cultural relevance, or perceived value associated with system artifacts occurs independently of the system and without endorsement, facilitation, or encouragement by IMLS.
+IMLS provides no investor protections, no assurances, and no remedies. Participation is voluntary and entirely at the user’s own risk.
 ## Technical Architecture (Abstract)
 ## Deployment Timeliness
 ## Risk Disclosures
