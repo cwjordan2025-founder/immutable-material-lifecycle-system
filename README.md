@@ -53,3 +53,12 @@ Documentation in this repository is licensed under
 Creative Commons Attribution–NoDerivatives 4.0 (CC BY-ND 4.0).
 
 This system defines irreversible state transitions without any mechanism for profit generation, redemption, yield, or financial return.
+
+## Canonical IPFS Reference
+
+This repository’s canonical documentation bundle is published on IPFS:
+
+ipfs://bafybeia26rgzqxistbxebp5lgwtxj2b6fg6pvnbqcqbiv6nkyrn5mcl4de
+
+Version: v1.0  
+Timestamp: 2025-12-31
