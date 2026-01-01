@@ -84,6 +84,41 @@ Lifecycle Completeness (unchanged)
 The defined states form a closed lifecycle. No additional states may be introduced without redefining the system itself. Implementations must enforce state exclusivity, transition ordering, and irreversibility at all times.
 Any interpretation of value, meaning, or cultural significance derived from lifecycle progression is external to the system and not guaranteed, encouraged, or implied.
 ## One-Way Transitions
+The Immutable Material Lifecycle System (IMLS) enforces strictly one-way state transitions. Once a material transitions from one state to the next, the prior state is permanently destroyed and cannot be reconstructed, revisited, or referenced as an active condition.
+Transitions are explicit, user-initiated, and final. There are no automatic reversals, conditional rollbacks, or system-level exceptions. Each transition represents a point of no return and is recorded immutably as part of the material’s lifecycle history.
+Transition Rules
+Origin → GLOP
+Entry into the system. Material becomes subject to IMLS invariants.
+This transition is singular and cannot be repeated.
+Materials outside the system have no lifecycle history.
+GLOP → HARD GLOP
+Commitment transition (“hardening”).
+Initiated voluntarily by the holder.
+Permanently alters the material’s state.
+Destroys the ability to exist as GLOP.
+No reward, yield, or benefit is produced by waiting or delaying.
+HARD GLOP → GLOP DUST (NFT)
+Exit transition to terminal residue.
+Converts committed material into a non-functional NFT artifact.
+Terminates all system interaction.
+Finalizes lifecycle documentation.
+Prohibited Transitions
+The following transitions are explicitly disallowed and must not exist in any implementation:
+HARD GLOP → GLOP
+GLOP DUST → any prior state
+Any form of state skipping
+Any form of partial reversal
+Any form of recombination, splitting, or rehydration
+Any transition conditioned on market price, time optimization, or external signals
+Irreversibility Guarantee
+IMLS irreversibility is not a user preference or configurable setting. It is a system invariant. Implementations must enforce transition finality at the protocol level, such that no privileged role, administrative control, or governance mechanism can reverse or override a completed transition.
+Historical Finality
+Each completed transition permanently records:
+Prior state
+Resulting state
+Timestamp of transition
+Final quantities or residue, where applicable
+These records exist solely as historical documentation, not as claims, entitlements, or instruments of value.
 ## Invariants & Constraints
 ## What This System IS
 ## What This System IS NOT
