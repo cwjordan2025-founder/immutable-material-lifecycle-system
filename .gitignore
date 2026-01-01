@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.*
+
+# Build / artifacts
+dist/
+build/
+out/
+
+# Logs
+*.log
+
+# Node / Solidity (future-proof)
+node_modules/
+.cache/
+artifacts/
+coverage/
