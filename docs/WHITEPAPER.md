@@ -186,6 +186,43 @@ IMLS does not confer ownership rights, equity, profit participation, or claims o
 Any secondary market activity, cultural relevance, or perceived value associated with system artifacts occurs independently of the system and without endorsement, facilitation, or encouragement by IMLS.
 IMLS provides no investor protections, no assurances, and no remedies. Participation is voluntary and entirely at the user’s own risk.
 ## Technical Architecture (Abstract)
+The Immutable Material Lifecycle System (IMLS) is defined as a state-enforced lifecycle specification, independent of any particular blockchain, runtime, or storage medium. Its architecture is intentionally minimal and focused solely on enforcing irreversible state transitions and preserving immutable historical records.
+Core Components
+State Registry
+A persistent record that maps each material identifier to its current lifecycle state. The registry must enforce state exclusivity such that a material may exist in only one state at any time.
+Transition Engine
+A deterministic mechanism that validates and executes lifecycle transitions. The engine must:
+Verify transition eligibility
+Enforce one-way progression
+Prevent prohibited or undefined transitions
+Finalize state changes atomically
+Immutability Layer
+A storage or logging layer that permanently records all completed transitions, including:
+Previous state
+Resulting state
+Timestamp
+Terminal outputs (e.g., GLOP DUST NFT reference)
+Once written, records must not be modifiable or deletable.
+Access Interface
+A minimal interface through which users may initiate transitions. The interface must not introduce incentives, automation, or discretionary control over lifecycle outcomes.
+Execution Environments
+IMLS may be implemented across multiple environments, including but not limited to:
+Public blockchains
+Private or permissioned ledgers
+Centralized databases with immutability guarantees
+Hybrid or layered systems
+Regardless of environment, implementations must preserve all system invariants and constraints.
+Upgrade Constraints
+Implementations may be upgraded for:
+Security improvements
+Performance optimization
+Interface usability
+However, upgrades must not:
+Alter lifecycle semantics
+Introduce reversibility
+Add incentives or economic behavior
+Modify terminal state behavior
+Any upgrade that violates these constraints constitutes a new and incompatible system.
 ## Deployment Timeliness
 ## Risk Disclosures
 ## Prior Art & Timestamping
