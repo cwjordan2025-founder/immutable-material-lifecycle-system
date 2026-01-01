@@ -234,4 +234,25 @@ The absence of a deployment timeline is intentional. It prevents the formation o
 Any reference implementation, test deployment, or demonstration—if produced—exists solely to validate system behavior and does not constitute a commitment to continued development, support, or maintenance.
 Changes, pauses, or termination of work may occur at any time without notice.
 ## Risk Disclosures
+Participation in or interaction with the Immutable Material Lifecycle System (IMLS) involves significant risk. Users must understand and accept the following disclosures before engaging with the system in any form.
+Experimental Nature
+IMLS is experimental software and a conceptual framework. It may contain design flaws, implementation errors, or unforeseen behaviors. The system may change, pause, or cease operation at any time.
+Irreversible Actions
+All lifecycle transitions are permanent and irreversible. Once a transition is executed, it cannot be undone, reversed, or corrected. Users bear full responsibility for all actions they initiate.
+No Economic Protections
+IMLS provides no guarantees of value, utility, or benefit. The system does not offer refunds, compensation, insurance, or recourse of any kind. Any perceived or external value associated with system artifacts is not guaranteed and may be zero.
+Loss of Access or Functionality
+Users may permanently lose access to materials due to:
+User error
+Key loss
+Interface failure
+Implementation bugs
+Platform or infrastructure shutdowns
+IMLS assumes no responsibility for such losses.
+Regulatory Uncertainty
+Digital systems, cryptographic artifacts, and NFTs may be subject to evolving legal or regulatory treatment depending on jurisdiction. Users are solely responsible for understanding and complying with all applicable laws.
+No Advice Provided
+Nothing within IMLS constitutes legal, financial, investment, tax, or professional advice. Users should consult qualified professionals before interacting with any experimental digital system.
+Assumption of Risk
+By interacting with IMLS or any implementation thereof, users explicitly assume all risks, known and unknown, and agree that no party involved in the system’s design or publication is liable for outcomes.
 ## Prior Art & Timestamping
