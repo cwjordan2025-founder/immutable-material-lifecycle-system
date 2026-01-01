@@ -120,6 +120,46 @@ Timestamp of transition
 Final quantities or residue, where applicable
 These records exist solely as historical documentation, not as claims, entitlements, or instruments of value.
 ## Invariants & Constraints
+The Immutable Material Lifecycle System (IMLS) is governed by a fixed set of non-negotiable invariants and enforced constraints. These rules define the system’s identity. Any implementation that violates them is not an instance of IMLS.
+Core Invariants
+Irreversibility
+All lifecycle transitions are permanent. No state transition can be reversed, undone, replayed, or bypassed under any circumstances.
+One-Way Progression
+Materials may only progress forward through the defined lifecycle states. Backward movement, looping, or cyclical reuse is prohibited.
+State Exclusivity
+A material may exist in exactly one lifecycle state at any given time. Simultaneous or overlapping states are not permitted.
+Finite Lifecycle
+The lifecycle is closed and finite. No additional states may be introduced without redefining the system itself.
+No Value Engineering
+The system does not generate, promise, or optimize for value, yield, profit, appreciation, or economic return.
+User-Initiated Finality
+All transitions are explicitly initiated by users. The system does not autonomously advance states for reward, optimization, or incentive purposes.
+No Administrative Override
+No privileged role, governance process, or administrative authority may alter outcomes, reverse transitions, or modify lifecycle behavior post-deployment.
+System Constraints
+No Recombination
+Materials cannot be merged, split, recombined, or fractionalized across states.
+No Rehydration
+Once material exits into the terminal GLOP DUST NFT state, it cannot re-enter the lifecycle in any form.
+No Emissions or Inflation
+The system does not mint additional material as a result of time, participation, or activity.
+No Incentive Alignment
+There are no rewards for waiting, staking duration, early participation, or prolonged commitment.
+No External Dependency
+Lifecycle transitions must not depend on market prices, oracle data, governance votes, or off-chain discretionary inputs.
+No Upgrade Path That Alters Semantics
+Implementations may be optimized for efficiency or security, but lifecycle semantics and invariants must remain unchanged.
+Violation Clause
+Any modification, extension, or deployment that:
+introduces reversibility,
+enables value accrual,
+adds incentives or rewards,
+permits administrative intervention, or
+alters lifecycle finality
+invalidates the system’s identity as an Immutable Material Lifecycle System.
+Interpretive Boundary
+IMLS records irreversible actions and preserves their outcomes as immutable history.
+Any meaning, symbolism, cultural relevance, or external value attributed to lifecycle artifacts is external to the system and not produced, guaranteed, or endorsed by IMLS.
 ## What This System IS
 ## What This System IS NOT
 ## Technical Architecture (Abstract)
