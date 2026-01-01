@@ -1,9 +1,13 @@
 # Immutable Material Lifecycle System
 
-> LEGAL DISCLAIMER: This is experimental software documentation, not an investment,
-> security, or financial product. No expectation of profits, yields, or value
-> appreciation. Users bear all risks. Not legal or financial advice. Void where
-> prohibited.
+⚠️ LEGAL DISCLAIMER
+
+GLOP is experimental software, not an investment, security, or financial product.
+No expectation of profits, yields, or value appreciation.
+Users bear all risks.
+Not legal or financial advice.
+Consult professionals.
+Void where prohibited.
 
 ## Executive Summary (Verbatim Canonical Inclusion)
 
@@ -47,3 +51,5 @@ If a conflict exists, authority resolves in that order.
 
 Documentation in this repository is licensed under
 Creative Commons Attribution–NoDerivatives 4.0 (CC BY-ND 4.0).
+
+This system defines irreversible state transitions without any mechanism for profit generation, redemption, yield, or financial return.
