@@ -283,3 +283,11 @@ This document represents Version 1.0 of the IMLS specification.
 Subsequent versions, if any, will be clearly versioned and timestamped and will not retroactively modify this disclosure.
 Reservation of Rights
 Publication of this document does not grant permission, license, or rights beyond those explicitly stated. The authors reserve all rights consistent with applicable law.
+### Canonical IPFS Publication
+
+This document is published as part of a canonical IPFS bundle:
+
+ipfs://bafybeia26rgzqxistbxebp5lgwtxj2b6fg6pvnbqcqbiv6nkyrn5mcl4de
+
+This CID represents Version 1.0 of the Immutable Material Lifecycle System
+specification, published December 31, 2025.
